@@ -41,9 +41,13 @@ Based on that number, the corresponding dice image is displayed on the screen.
 ---
 
 ## 📂 Project Structure
+
 com.example.diceproject
+
 │── MainActivity.kt
+
 │── DiceWithButtonAndImage()
+
 │── Drawable Dice Images (dice_1 to dice_6)
 
 ---
